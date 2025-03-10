@@ -1,4 +1,4 @@
-Loja de Games API
+Loja de Games
 
 📌 Sobre o Projeto
 
